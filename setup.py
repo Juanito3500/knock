@@ -4,6 +4,8 @@
 from setuptools import setup
 
 setup(
+	
+	fgfgfgf
 	name="knockpy",
 	version="5.3.0",
 	description="Knock is a python tool designed to quickly enumerate subdomains on a target domain through dictionary attack.",
